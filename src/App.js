@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { ShoppingCart, X, Plus, Minus, Star, Menu } from 'lucide-react';
+import { ShoppingCart, X, Plus, Minus, Star } from 'lucide-react';
 
 // FAKE STORE API URL
 const API_URL = 'https://fakestoreapi.com/products';
