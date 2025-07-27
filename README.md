@@ -1,5 +1,14 @@
 # E-Commerce-App
 
+# To Access Hosted Website Link
+
+Link for netlify Hosted react App: https://shopifyshopping.netlify.app/
+
+Built using React JS
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
